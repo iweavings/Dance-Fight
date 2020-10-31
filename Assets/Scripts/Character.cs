@@ -45,7 +45,7 @@ public class Character : MonoBehaviour
     /// </summary>
     private void SetUpInitialCharacterStats()
     {
-      Debug.LogWarning("InitialStats called, needs to distribute points into stats. This should be able to be ported from previous brief work");
+      //Debug.LogWarning("InitialStats called, needs to distribute points into stats. This should be able to be ported from previous brief work");
 
         //Debug.LogWarning("InitialStats called, need to distribute points into stats. This should be able to be ported from previous brief work");
         // We probably want to set out default level and some default random stats 
